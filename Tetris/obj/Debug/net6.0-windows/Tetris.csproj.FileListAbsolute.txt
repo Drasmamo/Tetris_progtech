@@ -1,0 +1,42 @@
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.exe
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.deps.json
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.runtimeconfig.json
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.dll
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.pdb
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.csproj.AssemblyReference.cache
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.cache
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.lref
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.g.resources
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.AssemblyInfoInputs.cache
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.AssemblyInfo.cs
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.dll
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\obj\Debug\net6.0-windows\refint\Tetris.dll
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.pdb
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.genruntimeconfig.cache
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\Beadandó\Tetris\Tetris\obj\Debug\net6.0-windows\ref\Tetris.dll
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.exe
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.deps.json
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.runtimeconfig.json
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.dll
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.pdb
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.csproj.AssemblyReference.cache
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.cache
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.lref
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.g.resources
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.AssemblyInfoInputs.cache
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.AssemblyInfo.cs
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.dll
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug\net6.0-windows\refint\Tetris.dll
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.pdb
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.genruntimeconfig.cache
+C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug\net6.0-windows\ref\Tetris.dll
