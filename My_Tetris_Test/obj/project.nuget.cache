@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BLRydSIcgMjjoTbm7GE3MbbzF67/1F28ETrbj40n9YN5fwuuD43gnpB1oD1kY+Jujfzj6aI5EGAQ40E3Isij0w==",
+  "dgSpecHash": "NPokeGm35RpvamIrx3rVspV5VVYE5IRNnd+8DcvT/ZC3Y8Xz5ANvG2xoa+j1b21iR+bqLSHM0k9uZ27rXecu8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\s07ma\\OneDrive\\Asztali gép\\Progtech\\bead új 2\\Tetris\\My_Tetris_Test\\My_Tetris_Test.csproj",
+  "projectFilePath": "D:\\Beadando_progtech\\Tetris\\My_Tetris_Test\\My_Tetris_Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\s07ma\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\s07ma\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

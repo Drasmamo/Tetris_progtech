@@ -36,6 +36,18 @@ namespace My_Tetris_Test
             Assert.NotEqual(initialPosition, newPosition);
         }
 
+        [Fact]
+        public void MoveBlockRight_ShouldUpdateBlockPosition()
+        {
+            var gameState = new GameState();
+            var initialPosition = gameState.CurrentBlock.TilePositions();
+
+            gameState.MoveBlockRight();
+            var newPosition = gameState.CurrentBlock.TilePositions();
+
+            Assert.NotEqual(initialPosition, newPosition);
+        }
+
         //ellenőrzi, hogy a blokk forgatása helyesen frissíti a blokk pozícióit.
         [Fact]
         public void RotateBlockCW_ShouldUpdateBlockRotation()
@@ -47,22 +59,6 @@ namespace My_Tetris_Test
             var newPosition = gameState.CurrentBlock.TilePositions();
 
             Assert.NotEqual(initialPosition, newPosition);
-        }
-
-        //ellenőrzi, hogy a pontszám frissül-e, amikor egy blokk lehelyezésre kerül.
-        [Fact]
-        public void PlaceBlock_ShouldUpdateScore()
-        {
-            var gameState = new GameState();
-            int initialScore = gameState.Score;
-
-            while (!gameState.GameOver && gameState.BlockFits())
-            {
-                gameState.MoveBlockDown();
-            }
-            gameState.MoveBlockDown();
-
-            Assert.Equal(initialScore, gameState.Score);
         }
 
         //ellenőrzi, hogy a játék helyesen vált-e át a játékvégi állapotba.

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s07ma\\OneDrive\\Asztali gép\\Progtech\\bead új 2\\Tetris\\Tetris\\Tetris.csproj",
+      "projectUniqueName": "D:\\Beadando_progtech\\Tetris\\Tetris\\Tetris.csproj",
       "projectName": "Tetris",
-      "projectPath": "C:\\Users\\s07ma\\OneDrive\\Asztali gép\\Progtech\\bead új 2\\Tetris\\Tetris\\Tetris.csproj",
+      "projectPath": "D:\\Beadando_progtech\\Tetris\\Tetris\\Tetris.csproj",
       "packagesPath": "C:\\Users\\s07ma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s07ma\\OneDrive\\Asztali gép\\Progtech\\bead új 2\\Tetris\\Tetris\\obj\\",
+      "outputPath": "D:\\Beadando_progtech\\Tetris\\Tetris\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s07ma\\AppData\\Roaming\\NuGet\\NuGet.Config",

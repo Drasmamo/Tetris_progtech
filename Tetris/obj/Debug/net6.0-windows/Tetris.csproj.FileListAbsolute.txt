@@ -40,3 +40,24 @@ C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug
 C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.pdb
 C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.genruntimeconfig.cache
 C:\Users\s07ma\OneDrive\Asztali gép\Progtech\bead új 2\Tetris\Tetris\obj\Debug\net6.0-windows\ref\Tetris.dll
+D:\Beadando_progtech\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.exe
+D:\Beadando_progtech\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.deps.json
+D:\Beadando_progtech\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.runtimeconfig.json
+D:\Beadando_progtech\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.dll
+D:\Beadando_progtech\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.pdb
+D:\Beadando_progtech\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.csproj.AssemblyReference.cache
+D:\Beadando_progtech\Tetris\Tetris\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Beadando_progtech\Tetris\Tetris\obj\Debug\net6.0-windows\App.g.cs
+D:\Beadando_progtech\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.cache
+D:\Beadando_progtech\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.lref
+D:\Beadando_progtech\Tetris\Tetris\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Beadando_progtech\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.g.resources
+D:\Beadando_progtech\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+D:\Beadando_progtech\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.AssemblyInfoInputs.cache
+D:\Beadando_progtech\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.AssemblyInfo.cs
+D:\Beadando_progtech\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.csproj.CoreCompileInputs.cache
+D:\Beadando_progtech\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.dll
+D:\Beadando_progtech\Tetris\Tetris\obj\Debug\net6.0-windows\refint\Tetris.dll
+D:\Beadando_progtech\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.pdb
+D:\Beadando_progtech\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.genruntimeconfig.cache
+D:\Beadando_progtech\Tetris\Tetris\obj\Debug\net6.0-windows\ref\Tetris.dll
